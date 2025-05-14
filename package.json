@@ -1,0 +1,19 @@
+{
+  "name": "study-portal-backend",
+  "version": "1.0.0",
+  "description": "This is backend of study-portal which  i am specifically building for my brother to give him ideas, store his acheivements, mark attendence and give him Coding task that help him to bost his carier",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Muhammad Kashif Nabeel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3"
+  },
+  "devDependencies": {}
+}
